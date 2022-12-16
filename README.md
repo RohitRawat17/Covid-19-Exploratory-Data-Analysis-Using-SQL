@@ -2,7 +2,7 @@
   
 
 ### Tools Used - Microsoft SQL server, Tableau, MS Excel.
-### Skills used: Complex Joins, CTEs(Common Table Expressions), Date Functions, Aggregate Functions, Converting Data Types, Filtering Data and many more.
+### SQL Skills used: Complex Joins, CTEs(Common Table Expressions), Date Functions, Aggregate Functions, Converting Data Types, Filtering Data and many more.
 
 
 ## Project Overview
@@ -10,7 +10,8 @@ In this project we use SQL to analyse Covid-19 data of about 3 years to answer i
 
 ## Following steps were followed for analysis and visualisation:
 
-### 1.Understanding the dataset
+### 1.Understanding the dataset  
+Data source link - https://ourworldindata.org/covid-deaths  
 The dataset contains total number of cases, vaccinations and deaths broken down by continent, country, date etc.  
 There are two datasets, covid_death_table which contains data about cases, deaths etc and covid_vaccination_table which contains data about vaccinations, tests etc.
 
