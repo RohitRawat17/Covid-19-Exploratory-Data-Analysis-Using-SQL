@@ -21,12 +21,12 @@ In the dataset there were no duplicate values and the null values were used to d
 ### 3.Data exploration
 In this section we explore insightful question related to our data set and those are as follows:
 
-a.What is the correlation between Covid infections detected per month and Vaccinations administered per country per month?  
-b.What is the likelihood of dying if you contract covid in your country?  
-c.What is the percentage of population that has contracted covid at least once per country?  
-d.What percentage of people are alive after contracting covid per country?  
-e.Which countries have the highest death count?  
-f.What is the total death percentage of the world?  
+* What is the correlation between Covid infections detected per month and Vaccinations administered per country per month?  
+* What is the likelihood of dying if you contract covid in your country?  
+* What is the percentage of population that has contracted covid at least once per country?  
+* What percentage of people are alive after contracting covid per country?  
+* Which countries have the highest death count?  
+* What is the total death percentage of the world?  
 
 
 ### 4.Data visualisation
